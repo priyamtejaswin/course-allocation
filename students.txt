@@ -1,0 +1,3 @@
+12bce0548 priyam 9.8 1 mat102 1 eng102 2 end end
+10bce0129 aayush 9.9 3 phy102 2 end end
+11bce0111 ramesh 9   2 eee102 1 end end

@@ -1,0 +1,3 @@
+mat102	mat101	ram	a1	sam	a2	4	0
+eng102	eng101	hari	b1	sari	b2	3	5.5
+eee102	eee101	mac	c1	hari	c2	3	7

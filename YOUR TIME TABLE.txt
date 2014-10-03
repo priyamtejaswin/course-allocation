@@ -1,0 +1,5 @@
+priyam 12bce0548
+COURSE	FACULTY	SLOT	CREDITS
+eng102	sari	b2	3
+mat102	sam	a2	4
+TOTAL CREDITS = 7
